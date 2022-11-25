@@ -7,7 +7,7 @@
 # Linkedin: https://www.linkedin.com/in/robson-vaamonde-0b029028/
 # Instagram: https://www.instagram.com/procedimentoem/?hl=pt-br
 # Github: https://github.com/vaamonde
-# Data de criação: 10/10/2021
+# Data de criação: 25/12/2021
 # Data de atualização: 05/10/2022
 # Versão: 0.82
 # Testado e homologado para a versão do Ubuntu Server 20.04.x LTS x64
